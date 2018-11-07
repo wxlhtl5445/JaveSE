@@ -1,0 +1,16 @@
+day1802.C;c
+day1802.A;a   
+day1802.A;a   
+day1802.A;a   
+day1802.B;b
+day1802.B;b
+day1802.C;c
+day1802.C;c
+day1802.B;b
+day1802.A;a   
+day1802.B;b
+day1802.C;c
+day1802.A;a   
+day1802.B;b
+day1802.C;c
+
